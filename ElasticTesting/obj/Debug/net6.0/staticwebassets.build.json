@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f9MzCYsOvhX4N/qCx337EgBjdwEtAGMhfJlD9QY0FNY=",
+  "Source": "ElasticTesting",
+  "BasePath": "_content/ElasticTesting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

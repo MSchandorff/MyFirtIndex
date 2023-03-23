@@ -1,0 +1,12 @@
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\bin\Debug\net6.0\NolekStuff.deps.json
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\bin\Debug\net6.0\NolekStuff.dll
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\bin\Debug\net6.0\NolekStuff.pdb
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.csproj.AssemblyReference.cache
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.AssemblyInfoInputs.cache
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.AssemblyInfo.cs
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.dll
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\refint\NolekStuff.dll
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\NolekStuff.pdb
+C:\Users\Mikkel\source\repos\ElasticTesting\NolekStuff\obj\Debug\net6.0\ref\NolekStuff.dll

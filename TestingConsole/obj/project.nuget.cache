@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DqP5K46cg4wnk7zNVdeZY0itL3q+w2M9EPrr6GuQV9B4FVVrGRo+RaAtiC8pdLosGxIuga6cLkpNLPE5GdlaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikkel\\source\\repos\\ElasticTesting\\TestingConsole\\TestingConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikkel\\.nuget\\packages\\elastic.clients.elasticsearch\\8.0.5\\elastic.clients.elasticsearch.8.0.5.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\elastic.transport\\0.4.6\\elastic.transport.0.4.6.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
